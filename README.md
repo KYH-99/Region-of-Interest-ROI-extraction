@@ -1,3 +1,5 @@
+# Region-of-Interest-ROI-extraction Public
+2024 | Open CV Term Project
 
 # 영상처리 (Open CV) - 이미지 관심 영역(ROI) 추출하기
 
